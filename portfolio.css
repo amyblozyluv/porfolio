@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mainside{
+    background-color: black;
+    color: white;
+}
+
+.leftSide{
+  margin: auto;
+  padding: 20px;
+}
+
+.rightSide{
+    
+}
